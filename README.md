@@ -1,12 +1,12 @@
 # 5LSM0-final-assignment
- Name : Jiaqi Ji Student ID: 1877879  
- CodaLab Username: Erastus  
- TU/e email address: j.ji@student.tue.nl  
- It seems that my teammate dropped the course long time ago. I am unable to contact my teammate.   
+ Name : Bo Yang Student ID: 1796372 
+ CodaLab Username: Yangbobo  
+ TU/e email address: b.yang2@student.tue.nl  
+
 # About running the code:  
 As stated in my paper, I used the data from the paper: Multi-weather city: Adverse weather stacking for autonomous driving,  which was cited in my paper.    
 In order to acquire the data I used, please follow the instructions on authors' [github](https://github.com/vnmusat/multi-weather-city)  
-Below is a brief insturction from [github](https://github.com/vnmusat/multi-weather-city):  
+Below is a brief instuction from [github](https://github.com/vnmusat/multi-weather-city):  
 1. download the original cityscapes dataset.
 2. download the cityscapes difference file: [link](https://drive.google.com/file/d/1AQ_zt6PLMV4myHXL5wSFkQwIahL8OPoV/view)  
 3. extract the file and make sure the city-scapes difference folder and cityscapes folder are on the same level.
